@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm a Full Stack Developer with a passion for building web applications and solving complex problems.
+
+## 🛠️ Technologies & Tools
+
+- **Frontend:** React, Next.js, Redux Toolkit
+- **Backend:** Node.js, Express, PostgreSQL
+- **Other:** Docker, Kubernetes, Git, CI/CD
+
 [![Codewars](https://www.codewars.com/users/ruslantajimetow/badges/large)](https://www.codewars.com/users/ruslantajimetow)
 
 
