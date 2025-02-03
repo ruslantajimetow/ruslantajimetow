@@ -11,7 +11,7 @@ I'm a Full Stack Developer with a passion for building web applications and solv
 [![Codewars](https://www.codewars.com/users/ruslantajimetow/badges/large)](https://www.codewars.com/users/ruslantajimetow)
 
 
-[![My Vercel Site](https://link-to-your-screenshot.png)](https://prostore-alpha.vercel.ap)
+[![My Vercel Site](https://github.com/ruslantajimetow/prostore-e-commerce/blob/main/public/images/Screenshot%202025-02-03%20232556.png)](https://prostore-alpha.vercel.ap)
 
 <!--
 **ruslantajimetow/ruslantajimetow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
