@@ -10,7 +10,7 @@ I'm a Full Stack Developer with a passion for building web applications and solv
 
 [![Codewars](https://www.codewars.com/users/ruslantajimetow/badges/large)](https://www.codewars.com/users/ruslantajimetow)
 
-[![My_skincare_shop_with_ai](https://github.com/ruslantajimetow/skincare_shop_with_ai/blob/83932caa91485c68708b2d0fbf373591e2ea9c40/Screenshot%202026-07-16%20at%2017.44.53.png)](https://frontend-production-996f4.up.railway.app)
+[![My_skincare_shop_with_ai](https://github.com/ruslantajimetow/skincare_shop_with_ai/blob/83932caa91485c68708b2d0fbf373591e2ea9c40/Screenshot%202026-07-16%20at%2017.44.53.png)](https://frontend-production-8afb.up.railway.app)
 
 ***************************************************************************************************************************************************************************
 
